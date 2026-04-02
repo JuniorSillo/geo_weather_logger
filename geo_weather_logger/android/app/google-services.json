@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91468610213",
+    "project_id": "geo-weather-logger",
+    "storage_bucket": "geo-weather-logger.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91468610213:android:e0d479c467be9773732b4c",
+        "android_client_info": {
+          "package_name": "com.bitcubesillomj.geoweatherlogger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgWmoP1x4NXftmINyOCtd-TzpooXvLbfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

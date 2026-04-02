@@ -1,0 +1,22 @@
+name: geo_weather_logger
+description: geo_weather_logger.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  dio: ^5.9.0
+  firebase_core: ^4.6.0
+  firebase_auth: ^6.3.0
+  geolocator: ^14.0.2
+  shared_preferences: ^2.5.3
+  flutter_local_notifications: ^21.0.0
+
+flutter:
+  uses-material-design: true
