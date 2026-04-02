@@ -1,4 +1,4 @@
-package com.example.geo_weather_logger
+package com.bitcubesillomj.geoweatherlogger
 
 import io.flutter.embedding.android.FlutterActivity
 
